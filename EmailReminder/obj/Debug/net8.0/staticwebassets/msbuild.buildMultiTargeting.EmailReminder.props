@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EmailReminder.props" />
+</Project>
